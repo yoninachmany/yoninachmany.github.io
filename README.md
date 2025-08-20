@@ -1,6 +1,6 @@
 I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains, though I'm interested in the emergence of AI reasoning agents.
 
-My areas of focus have included ML weather forecasting, global map data generation, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing.
+My areas of focus have included ML weather forecasting, global map data generation, digital twins, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing.
 
 I've worked in academic research environments, R&D labs, startups at various stages (including as a first hire), B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
 
@@ -19,9 +19,9 @@ Always open to a new challenge, please reach out!
 
 **Global atmospheric data assimilation with multi-modal masked autoencoders** \| [Preprint 2024](https://arxiv.org/abs/2407.11696v1)
 
-**Learning Word Ratings for Empathy and Distress from Document-Level User Responses** \| [LREC 2020](https://arxiv.org/pdf/1912.01079)
-
 **Design Considerations for High Impact, Automated Echocardiogram Analysis** \| [ICML 2020 Machine Learning for Global Health Workshop](https://arxiv.org/abs/2006.06292)
+
+**Learning Word Ratings for Empathy and Distress from Document-Level User Responses** \| [International Conference on Language Resources and Evaluation (LREC) 2020](https://arxiv.org/pdf/1912.01079)
 
 **Mitigating Geographic Bias of Image Classifiers with Multilingual Image Data** \| [Bloomberg 2019 Data for Good Exchange](https://www.bloomberg.com/company/stories/data-for-good-exchange-2019-preview-prosperity-peace-track/)
 
