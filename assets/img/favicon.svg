@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="YO logo, yellow on transparent">
+  <!-- Transparent background by default in SVG -->
+  <style>
+    .word { font: 800 720px system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+  <text x="512" y="740" text-anchor="middle" class="word" fill="#F4C542">YO</text>
+</svg>
