@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.logo-row {
+    display: flex;
+    align-items: center;   /* vertically centers */
+    justify-content: center; /* optional: center all logos */
+    flex-wrap: wrap;       /* responsive wrapping */
+    gap: 30px;             /* space between logos */
+    padding: 20px 0;
+  }
+  
+  .logo-row img {
+    max-height: 80px;      /* all logos visually aligned by height */
+    width: auto;           /* keeps natural proportions */
+    object-fit: contain;   /* prevents distortion */
+  }
