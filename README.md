@@ -1,6 +1,6 @@
-I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains.
+I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains, though I'm interested in the emergence of AI reasoning agents.
 
-My areas of focus have included ML weather forecasting, global map data generation, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing. I am interested in the emergence of AI reasoning agents.
+My areas of focus have included ML weather forecasting, global map data generation, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing.
 
 I've worked in academic research environments, R&D labs, startups at various stages (including as a first hire), B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
 
@@ -17,7 +17,7 @@ Always open to a new challenge, please reach out!
 
 # Research
 
-**Global atmospheric data assimilation with multi-modal masked autoencoders** \| [preprint 2024](https://arxiv.org/abs/2407.11696v1)
+**Global atmospheric data assimilation with multi-modal masked autoencoders** \| [Preprint 2024](https://arxiv.org/abs/2407.11696v1)
 
 **Learning Word Ratings for Empathy and Distress from Document-Level User Responses** \| [LREC 2020](https://arxiv.org/pdf/1912.01079)
 
@@ -25,9 +25,9 @@ Always open to a new challenge, please reach out!
 
 **Mitigating Geographic Bias of Image Classifiers with Multilingual Image Data** \| [Bloomberg 2019 Data for Good Exchange](https://www.bloomberg.com/company/stories/data-for-good-exchange-2019-preview-prosperity-peace-track/)
 
-**Generating a Training Dataset for Land Cover Classification to Advance Global Development** \| [NIPS 2018 Workshop on Machine Learning for the Developing World](https://arxiv.org/abs/1811.07998)
-
 **Detecting Roads from Satellite Imagery in the Developing World** \| [CVPR 2019 Computer Vision for Global Challenges Workshop](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Nachmany_Detecting_Roads_from_Satellite_Imagery_in_the_Developing_World_CVPRW_2019_paper.pdf)
+
+**Generating a Training Dataset for Land Cover Classification to Advance Global Development** \| [NeurIPS 2018 Workshop on Machine Learning for the Developing World](https://arxiv.org/abs/1811.07998)
 
 **Decoded: Crowdsourcing Summaries of Internet Privacy Policies** \| [HCOMP 2017 Poster](https://www.humancomputation.com/2017/papers.html)
 
