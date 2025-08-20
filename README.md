@@ -8,10 +8,10 @@ Always open to a new challenge!
 
 <div class="logo-row">
     <img src="assets/img/mapbox.png" alt="Mapbox">
-    <img src="assets/img/zeus.png" alt="Zeus AI">
-    <img src="assets/img/clarifai.png" alt="Clarifai">
-    <img src="assets/img/nyt.jpg" alt="New York Times">
     <img src="assets/img/linux.svg" alt="Linux Foundation">
+    <img src="assets/img/nyt.jpg" alt="New York Times">
+    <img src="assets/img/clarifai.png" alt="Clarifai">
+    <img src="assets/img/zeus.png" alt="Zeus AI">
     <img src="assets/img/gro.png" alt="Gro Intelligence">
 </div>
 
