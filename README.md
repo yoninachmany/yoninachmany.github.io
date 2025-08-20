@@ -2,7 +2,7 @@ I'm a research engineer supporting innovative work on multimodal foundation mode
 
 My areas of focus have included ML weather forecasting, global map data generation, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision classifiers, multilingual AI, and crowdsourcing.
 
-I've worked in academic research environments, R&D labs, startups at various stages (including as a first hire), B corporations, and tech nonprofits. I have a Master's in Data Science from the University of Pennsylvania.
+I've worked in academic research environments, R&D labs, startups at various stages (including as a first hire), B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
 
 Always open to a new challenge!
 
@@ -15,18 +15,34 @@ Always open to a new challenge!
     <img src="assets/img/gro.png" alt="Gro Intelligence">
 </div>
 
-# Associated Research
+# Research
 
-**Global atmospheric data assimilation with multi-modal masked autoencoders** \| [preprint](https://arxiv.org/abs/2407.11696v1)
+**Global atmospheric data assimilation with multi-modal masked autoencoders** \| [preprint 2024](https://arxiv.org/abs/2407.11696v1)
 
-**Mitigating Geographic Bias of Image Classifiers with Multilingual Image Data** \| Bloomberg Data for Good Exchange
+**Learning Word Ratings for Empathy and Distress from Document-Level User Responses** \| [LREC 2020](https://arxiv.org/pdf/1912.01079)
 
-**Design Considerations for High Impact, Automated Echocardiogram Analysis** \| [ML for Global Health, ICML](https://arxiv.org/abs/2006.06292)
+**Design Considerations for High Impact, Automated Echocardiogram Analysis** \| [ICML 2020 Machine Learning for Global Health Workshop](https://arxiv.org/abs/2006.06292)
 
-**Learning Word Ratings for Empathy and Distress from Document-Level User Responses** \| [LREC](https://arxiv.org/pdf/1912.01079)
+**Mitigating Geographic Bias of Image Classifiers with Multilingual Image Data** \| [Bloomberg 2019 Data for Good Exchange](https://www.bloomberg.com/company/stories/data-for-good-exchange-2019-preview-prosperity-peace-track/)
 
-**Generating a Training Dataset for Land Cover Classification to Advance Global Development** \| [ML for the Developing World, NeurIPS](https://arxiv.org/abs/1811.07998)
+**Generating a Training Dataset for Land Cover Classification to Advance Global Development** \| [NIPS 2018 Workshop on Machine Learning for the Developing World](https://arxiv.org/abs/1811.07998)
 
-**Detecting Roads from Satellite Imagery in the Developing World** \| [CV for Global Challenges, CVPR](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Nachmany_Detecting_Roads_from_Satellite_Imagery_in_the_Developing_World_CVPRW_2019_paper.pdf)
+**Detecting Roads from Satellite Imagery in the Developing World** \| [CVPR 2019 Computer Vision for Global Challenges Workshop](https://openaccess.thecvf.com/content_CVPRW_2019/papers/cv4gc/Nachmany_Detecting_Roads_from_Satellite_Imagery_in_the_Developing_World_CVPRW_2019_paper.pdf)
 
-**Decoded: Crowdsourcing Summaries of Internet Privacy Policies** \| HCOMP
+**Decoded: Crowdsourcing Summaries of Internet Privacy Policies** \| [HCOMP 2017 Poster](https://www.humancomputation.com/2017/papers.html)
+
+# Blogs
+
+**EarthNet: A multi-modal foundation model for global data assimilation of Earth observations** \| [Zeus AI blog](https://myzeus.ai/earthnet-a-multi-modal-foundation-model-for-global-data-assimilation-of-earth-observations/)
+
+**Announcing Helios, a satellite based solar analysis and forecast** \| [Zeus AI blog](https://myzeus.ai/announcing-helios-a-satellite-based-solar-analysis-and-forecast/)
+
+**Understanding Overture’s Global Entity Reference System** \| [Overture Maps Foundation blog](https://overturemaps.org/blog/2025/understanding-overtures-global-entity-reference-system/)
+
+**Using Computer Vision to Create A More Accurate Digital Archive** \| [NYTimes R&D blog](https://rd.nytimes.com/projects/using-computer-vision-to-create-a-more-accurate-digital-archive/)
+
+**3D Satellite Maps: Updating 135 million km² of high-resolution imagery + launching GL JS v2** \| [Mapbox blog](https://www.mapbox.com/blog/3d-satellite-maps-high-res-imagery)
+
+**30+ meter imagery update: improved recency, color, and resolution for seamless 3D terrain** \| [Mapbox blog](https://www.mapbox.com/blog/30-meter-imagery-update-improved-recency-color-and-resolution-for-seamless-3d-terrain)
+
+**Updated Aerial Imagery in the US** \| [Mapbox blog](https://www.mapbox.com/blog/updated-aerial-imagery-in-the-us)
