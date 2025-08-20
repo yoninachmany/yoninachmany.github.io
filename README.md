@@ -1,17 +1,17 @@
-I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP.
+I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains.
 
-My areas of focus have included ML weather forecasting, global map data generation, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision classifiers, multilingual AI, and crowdsourcing.
+My areas of focus have included ML weather forecasting, global map data generation, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing. I am interested in the emergence of AI reasoning agents.
 
 I've worked in academic research environments, R&D labs, startups at various stages (including as a first hire), B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
 
-Always open to a new challenge!
+Always open to a new challenge, please reach out!
 
 <div class="logo-row">
     <img src="assets/img/mapbox.png" alt="Mapbox">
-    <img src="assets/img/linux.svg" alt="Linux Foundation">
-    <img src="assets/img/nyt.jpg" alt="New York Times">
     <img src="assets/img/clarifai.png" alt="Clarifai">
     <img src="assets/img/zeus.png" alt="Zeus AI">
+    <img src="assets/img/linux.svg" alt="Linux Foundation">
+    <img src="assets/img/nyt.jpg" alt="New York Times">
     <img src="assets/img/gro.png" alt="Gro Intelligence">
 </div>
 
@@ -33,9 +33,9 @@ Always open to a new challenge!
 
 # Blogs
 
-**EarthNet: A multi-modal foundation model for global data assimilation of Earth observations** \| [Zeus AI blog](https://myzeus.ai/earthnet-a-multi-modal-foundation-model-for-global-data-assimilation-of-earth-observations/)
-
 **Announcing Helios, a satellite based solar analysis and forecast** \| [Zeus AI blog](https://myzeus.ai/announcing-helios-a-satellite-based-solar-analysis-and-forecast/)
+
+**EarthNet: A multi-modal foundation model for global data assimilation of Earth observations** \| [Zeus AI blog](https://myzeus.ai/earthnet-a-multi-modal-foundation-model-for-global-data-assimilation-of-earth-observations/)
 
 **Understanding Overture’s Global Entity Reference System** \| [Overture Maps Foundation blog](https://overturemaps.org/blog/2025/understanding-overtures-global-entity-reference-system/)
 
@@ -46,3 +46,5 @@ Always open to a new challenge!
 **30+ meter imagery update: improved recency, color, and resolution for seamless 3D terrain** \| [Mapbox blog](https://www.mapbox.com/blog/30-meter-imagery-update-improved-recency-color-and-resolution-for-seamless-3d-terrain)
 
 **Updated Aerial Imagery in the US** \| [Mapbox blog](https://www.mapbox.com/blog/updated-aerial-imagery-in-the-us)
+
+Last Update: August 2025
