@@ -1,4 +1,4 @@
-I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains, though I'm interested in the emergence of AI reasoning agents.
+I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains, though I'm excited about the emergence of AI reasoning agents.
 
 My areas of focus have included ML weather forecasting, global map data generation, digital twins, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing.
 
