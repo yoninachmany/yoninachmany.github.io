@@ -2,7 +2,7 @@ I'm a research engineer supporting innovative work on multimodal foundation mode
 
 My areas of focus have included ML weather forecasting, global map data generation, digital twins, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing.
 
-I've worked in academic research environments, R&D labs, startups at various stages including as a first hire, B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
+I've worked in academic research environments, R&D labs, startups at various stages including as the first hire, B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
 
 Always open to a new challenge, please reach out!
 
