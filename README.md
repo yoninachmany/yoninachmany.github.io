@@ -47,4 +47,16 @@ Always open to a new challenge, please reach out!
 
 **Updated Aerial Imagery in the US** \| [Mapbox blog](https://www.mapbox.com/blog/updated-aerial-imagery-in-the-us)
 
+# Talks
+
+**Generating Elevation Data from Stereo Pairs of Satellite Imagery** \| GeoPython 2023
+
+**Depth Perceptions - Perspectives on 3D & Digital Twins** \| SatSummit 2022
+
+**Mapping Historical "Street View" Images of New York City: Visualizing Geotagged Archival Photos** \| FOSS4G 2022
+
+**Under-Mapped Spaces: New Methods and Tools for Critical Storytelling** \| Stanford 2022
+
+**Deep Transfer Learning for Land Cover Classification on Open Multispectral Satellite Imagery** \| FOSS4G 2019
+
 Last Update: August 2025
