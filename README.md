@@ -1,11 +1,3 @@
-I'm a research engineer supporting innovative work on multimodal foundation models, multidimensional data pipelines, and deep learning for CV/NLP. Most of my work until now has been in the geospatial and climate domains, though I'm excited about the emergence of AI reasoning agents.
-
-My areas of focus have included ML weather forecasting, global map data generation, digital twins, 3D photogrammetry, newspaper OCR, medical imagery analysis, geographic bias in vision models, multilingual AI, and crowdsourcing.
-
-I've worked in academic research environments, R&D labs, startups at various stages including as the first hire, B corporations, and tech nonprofits. I have a Master's in Data Science and a Bacherlor's in Networked and Social Systems Engineering from the University of Pennsylvania.
-
-Always open to a new challenge, please reach out!
-
 <div class="logo-row">
     <img src="assets/img/mapbox.png" alt="Mapbox">
     <img src="assets/img/clarifai.png" alt="Clarifai">
